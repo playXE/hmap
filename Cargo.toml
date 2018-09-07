@@ -1,0 +1,11 @@
+[package]
+name = "hmap"
+version = "0.1.0"
+authors = ["Adel Prokurov <adel.prokurov@protonmail.com>"]
+description = "Adds hmap! macro for easily generate HashMap"
+repository = "https://github.com/playXE/hmap"
+readme = "README.md"
+keywords = ["hashmap","map","macro","hmap"]
+license = "MIT"
+
+[dependencies]
